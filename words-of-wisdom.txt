@@ -1,0 +1,5 @@
+There are also four magic REPL variables that you should keep in mind to save you
+some typing as you experiment in the REPL: *1, *2, *3, and *e. 
+
+The & symbol in a function argument specification means “and any number of
+optional arguments.” Functions like this are called variadic functions.
